@@ -1,3 +1,3 @@
-# designpatternsbr
+# Bem-vindo ao site do Design Patters BR
 
-Site com textos e modelos de design patterns aplicados no c#.
+Nosso site é voltado ao aprendizado de Design Patterns utilizando a linguagem C# como exemplo.
