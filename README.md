@@ -1,2 +1,3 @@
 # designpatternsbr
-Site para design patterns
+
+Site com textos e modelos de design patterns aplicados no c#.
